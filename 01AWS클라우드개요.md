@@ -2,7 +2,7 @@
 
 ### AWS Global Infrastructure
 
-![image-20230618135754570](./1.AWS클라우드개요.assets/image-20230618135754570.png)
+![image-20230618135754570](./01AWS클라우드개요.assets/image-20230618135754570.png)
 
 - AWS Regions
 
@@ -16,7 +16,7 @@
 
 - AWS Availability Zones
 
-  ![image-20230618144339138](./1.AWS클라우드개요.assets/image-20230618144339138.png)
+  ![image-20230618144339138](./01AWS클라우드개요.assets/image-20230618144339138.png)
 
   - Each region has many AZ(usually 3, min 2, max 6)
   - Each AZ is one or more discrete data centers with redundant power
